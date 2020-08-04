@@ -1,0 +1,7 @@
+.DS_Store
+.gradle/
+.idea/
+build/
+src/generated
+*.iml
+*.class
